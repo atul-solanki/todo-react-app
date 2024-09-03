@@ -19,12 +19,12 @@ This is a simple Todo List application built using React. It allows users to add
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/atul-solanki/todo-react-app
    ```
 
 2. Navigate to the project directory:
    ```
-   cd <folder-name>
+   cd todo-react-app
    ```
 
 3. Install the dependencies:
@@ -86,7 +86,7 @@ If you'd like to contribute to this project, please follow these steps:
   ## Owner
   Atul Solanki
 
-### Have a look at the project via this link : https://todo-list-react-app-zeta.vercel.app/
+### Have a look at the project via this link : https://todo-app-seven-iota-41.vercel.app/
 
 ## Preview of project
-![homepage](https://github.com/atul-solanki/todo_react_app/assets/119615683/fe26bc04-56fb-4715-ac09-dc4bc5c4cd9e)
+![homepage](https://github.com/user-attachments/assets/70d9560a-2bca-438f-bf2c-8768b94bc975)
